@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/christinaLK/2015-12-07-us-instructor-training"
-workshop_site   : "http://christinaLK.github.io/2015-12-07-us-instructor-training"
+workshop_repo   : "https://github.com/christinaLK/2015-12-07-na-instructor-training"
+workshop_site   : "http://christinaLK.github.io/2015-12-07-na-instructor-training"
 #--------------------------------------------------------------------------------
 # Standard Carpentry Instructor Training settings - should not need to be modified.
 #--------------------------------------------------------------------------------
